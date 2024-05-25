@@ -1,0 +1,101 @@
+body{
+    background-color: beige;
+}
+*{ 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#nav{
+    background-color: gray;
+    margin-top: 20px;
+    padding-inline-start: 50px;
+}
+.nav-item{
+    margin-inline: 10px;
+}
+.navbar-brand{
+    zoom: 2;
+    
+}
+.download{
+   margin-right:8% ;
+   width: 150px;
+}
+.heading{
+    margin-top: 5%;
+    text-align: center;
+    padding-inline: 30%;
+}
+.logo
+{
+    border-radius: 55%;
+    height: 30px;
+    width: 30px;
+}
+
+.col{
+    height: 100%;
+    width: 50%;
+}
+
+.text{
+    padding-top: 5%;
+    padding-inline: 20%;
+    text-align: center;
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span{
+    color: red;
+}
+.aboutus{
+    height: 100vh;
+    width: 100%;
+    background-color: gray;
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+}
+.text-start{
+   
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.slider{
+    padding-top: 5%;
+    height: 80%;
+    width: 80%;
+}
+
+
+
+#about-head{
+   padding-top: 5%;
+   font-size: 50px;
+}
+
+
+
+#mech-img{
+    height: 20px;
+}
+#mech-info{
+    padding-inline: 15%;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.card{
+    box-shadow: 0px 10px 20px 15px rgba(20,20,20,0.4);
+}
+.contact-footer{
+    margin-top: 5%;
+    font-size: 25px;
+}
